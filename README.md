@@ -76,7 +76,7 @@ To run this project, perform the following tasks 😨
 
 Download the code file manually or via git
 ```bash
-git clone https://github.com/Neeshi14/Traffic Alert.git
+git clone https://github.com/Neeshi14/Traffic-Alert-.git
 ```
 
 Create a virtual environment and activate it **(recommended)**
