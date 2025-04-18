@@ -103,7 +103,7 @@ I hope that your `myenv`` is activated and working directory
 
 Run the ```app.py``` file using
 ```cmd
-python run app.py
+py app.py
 
 ```
 
