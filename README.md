@@ -1,5 +1,9 @@
 🚦 Traffic Alert – Smart Traffic Prediction Web Application
+
+
 📌 Project Overview
+
+
 Traffic Alert is a smart traffic prediction system developed to enhance urban mobility by forecasting traffic conditions using machine learning. The system assists commuters in planning their journeys more efficiently by providing real-time traffic predictions. This web-based tool uses historical data and a Long Short-Term Memory (LSTM) deep learning model to provide accurate traffic forecasts.
 
 🎯 Key Features
